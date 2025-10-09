@@ -1,6 +1,7 @@
 # 🧑🏼‍💻 Damian Brudkowski
 
 **`Programmer/Athlete/Filmmaker`**
+📍Warsaw
 
 ## About Me
 - Second-year Computer science student
