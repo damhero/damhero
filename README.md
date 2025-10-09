@@ -1,4 +1,4 @@
-# 🏃🏼‍➡️ Damian Brudkowski
+# 🧑🏼‍💻 Damian Brudkowski
 
 **`Programmer/Athlete/Filmmaker`**
 
