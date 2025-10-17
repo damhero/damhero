@@ -16,7 +16,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,react,c,tailwind,python,js,html,css,)](https://skillicons.dev)
 
 **Tools & Platforms**<br>
-[![My Skills](https://skillicons.dev/icons?i=docker,azure,git,linux,mysql,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,azure,git,linux,mysql,nginx,aws)](https://skillicons.dev)
 <br />
 
 #
