@@ -3,7 +3,7 @@
 **`Programmer/Athlete/Filmmaker`**<br>
 📍Warsaw, Poland
 
-## About Me
+## 💡About Me
 - Second-year Computer science student
 - Enthusiast of code and good coffee  
 - Amateur athlete  
