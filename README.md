@@ -33,7 +33,7 @@
       <p>Online portfolio of photos and videos created by me and my father.</p>
       🔗 <a href="https://github.com/damhero/MyDiving">Repo</a> ·
       <a href="https://mydiving.pl">Production</a> ·
-       <a href="https://mydiving.pl">Documentation</a><br>
+       <a href="">Documentation</a><br>
       <sub>Tags: React, Java, MySQL</sub>
     </td>
     <td align="center" width="33%">
@@ -42,20 +42,18 @@
       </a>
       <h3>Graph Partition</h3>
       <p>Graph partitioning app with a full GUI</p>
-      🔗 <a href="https://github.com/yourusername/project-two">Repo</a> ·
-      <a href="https://your-case-study-link.com">Documentation</a><br/>
+      🔗 <a href="https://github.com/damhero/GraphPartition/tree/main">Repo</a> ·
+      <a href="https://github.com/damhero/GraphPartition/blob/main/Docs.pdf">Documentation</a><br/>
       <sub>Tags: Java, Swing, GUI</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/yourusername/project-three">
         <img src="https://github.com/damhero/damhero/blob/6bfa9a147a7f2883d6ae3368f84d2d538f5cf666/HistoLearn-picture" alt="HistoLearn" width="100%" />
       </a>
-      <h3>HistoLearn</h3>
-      <p>Web application for learning history</p>
-      🔗 <a href="https://github.com/yourusername/project-three">Repo</a> ·
-      <a href="https://your-demo-link.com">Demo</a> ·
-      <a href="https://your-case-study-link.com">Case Study</a><br/>
-      <sub>Tags: Java, Spring, CSS</sub>
+      <h3>ChineseFoodRanking</h3>
+      <p>Mobile App designed to rank asian restaurants</p>
+      🔗 <a href="https://github.com/damhero/ChineseFooDranking">Repo</a> <br/>
+      <sub>Tags: Swift, ...</sub>
     </td>
   </tr>
 </table>
