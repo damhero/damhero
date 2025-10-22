@@ -48,12 +48,12 @@
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/yourusername/project-three">
-        <img src="https://github.com/damhero/damhero/blob/6bfa9a147a7f2883d6ae3368f84d2d538f5cf666/HistoLearn-picture" alt="HistoLearn" width="100%" />
+        <img src="https://github.com/damhero/damhero/blob/6c77ce1445bc31598e4cb48eb522864e10a36241/ChineseFoodRanking-picture.png" alt="HistoLearn" width="100%" />
       </a>
       <h3>ChineseFoodRanking</h3>
       <p>Mobile App designed to rank asian restaurants</p>
       🔗 <a href="https://github.com/damhero/ChineseFooDranking">Repo</a> <br/>
-      <sub>Tags: Swift, ...</sub>
+      <sub>Tags: Swift, ... (in development)</sub>
     </td>
   </tr>
 </table>
