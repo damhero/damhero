@@ -37,7 +37,7 @@
       <sub>Tags: React, Java, MySQL</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/yourusername/project-two">
+      <a href="https://github.com/damhero/GraphPartition/tree/main">
         <img src="https://github.com/damhero/damhero/blob/c9d48ace18bf4b34aef02145925f8b265a0c8206/Graph-partition-picture" alt="Graph partition app" width="100%" />
       </a>
       <h3>Graph Partition</h3>
@@ -47,7 +47,7 @@
       <sub>Tags: Java, Swing, GUI</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/yourusername/project-three">
+      <a href="https://github.com/damhero/ChineseFooDranking">
         <img src="https://github.com/damhero/damhero/blob/6c77ce1445bc31598e4cb48eb522864e10a36241/ChineseFoodRanking-picture.png" alt="HistoLearn" width="100%" />
       </a>
       <h3>ChineseFoodRanking</h3>
