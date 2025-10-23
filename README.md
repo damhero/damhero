@@ -31,9 +31,9 @@
       </a>
       <h3>My Diving</h3>
       <p>Online portfolio of photos and videos created by me and my father.</p>
-      🔗 <a href="https://github.com/damhero/MyDiving">Repo</a> ·
+      🔗
       <a href="https://mydiving.pl">Production</a> ·
-       <a href="">Documentation</a><br>
+       <a href="https://github.com/damhero/mydivingReadme">Documentation</a><br>
       <sub>Tags: React, Java, MySQL</sub>
     </td>
     <td align="center" width="33%">
@@ -52,7 +52,8 @@
       </a>
       <h3>ChineseFoodRanking</h3>
       <p>Mobile App designed to rank asian restaurants</p>
-      🔗 <a href="https://github.com/damhero/ChineseFooDranking">Repo</a> <br/>
+      🔗 <a href="https://github.com/damhero/ChineseFooDranking">Repo</a> ·
+      <a href="https://github.com/damhero/ChineseFooDranking/blob/main/README.md">Documentation</a><br>
       <sub>Tags: Swift, ... (in development)</sub>
     </td>
   </tr>
